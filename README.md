@@ -1,1 +1,1 @@
-# TimeSeriesToolkit
+# EDA Accelerator
